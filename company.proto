@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+message Point {
+  required int32 year = 1;
+  required string legal_address = 2;
+  required string label = 3;
+  optional string occupation = 4;
+  optional bool foreign_activity = 5;
+}

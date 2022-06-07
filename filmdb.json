@@ -1,0 +1,1529 @@
+{
+  "Top Gun: Maverick": {
+    "id": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "originalTitle": "",
+    "fullTitle": "Top Gun: Maverick (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6751_AL_.jpg",
+    "releaseDate": "2022-05-27",
+    "runtimeMins": "131",
+    "runtimeStr": "2h 11min",
+    "plot": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "plotLocal": "Пит «Мэверик» Митчелл более 30 лет остается одним из лучших пилотов ВМФ: бесстрашный летчик-испытатель, он расширяет границы возможного и старательно избегает повышения в звании, которое заставило бы его приземлиться навсегда. Приступив к подготовке отряда выпускников Топ Ган для специальной миссии, подобной которой никогда не было, Мэверик встречает лейтенанта Брэдли Брэдшоу, сына своего покойного друга, лейтенанта Ника Брэдшоу. Впереди – неопределенность, за спиной – призраки прошлого. Мэверик вынужден противостоять своим глубинным страхам, которые грозят ожить в рамках миссии, требующей исключительной самоотверженности от тех, кто будет назначен на вылет.",
+    "plotLocalIsRtl": false,
+    "awards": "Top rated movie #65 | See the Top 250 movies as rated by IMDb users",
+    "directors": "Joseph Kosinski",
+    "directorList": [
+      {
+        "id": "nm2676052",
+        "name": "Joseph Kosinski"
+      }
+    ],
+    "writers": "Jim Cash, Jack Epps Jr., Peter Craig",
+    "writerList": [
+      {
+        "id": "nm0143596",
+        "name": "Jim Cash"
+      },
+      {
+        "id": "nm0258390",
+        "name": "Jack Epps Jr."
+      },
+      {
+        "id": "nm0185976",
+        "name": "Peter Craig"
+      }
+    ],
+    "stars": "Tom Cruise, Jennifer Connelly, Miles Teller",
+    "starList": [
+      {
+        "id": "nm0000129",
+        "name": "Tom Cruise"
+      },
+      {
+        "id": "nm0000124",
+        "name": "Jennifer Connelly"
+      },
+      {
+        "id": "nm1886602",
+        "name": "Miles Teller"
+      }
+    ],
+    "actorList": [
+      {
+        "id": "nm0000129",
+        "image": "https://imdb-api.com/images/original/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Tom Cruise",
+        "asCharacter": "Capt. Pete 'Maverick' Mitchellas Capt. Pete 'Maverick' Mitchell"
+      },
+      {
+        "id": "nm0000124",
+        "image": "https://imdb-api.com/images/original/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jennifer Connelly",
+        "asCharacter": "Penny Benjaminas Penny Benjamin"
+      },
+      {
+        "id": "nm1886602",
+        "image": "https://imdb-api.com/images/original/MV5BMTY2MzM2NzAxNF5BMl5BanBnXkFtZTgwMDIyMzg1NDE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Miles Teller",
+        "asCharacter": "Lt. Bradley 'Rooster' Bradshawas Lt. Bradley 'Rooster' Bradshaw"
+      },
+      {
+        "id": "nm0000174",
+        "image": "https://imdb-api.com/images/original/MV5BMTk3ODIzMDA5Ml5BMl5BanBnXkFtZTcwNDY0NTU4Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Val Kilmer",
+        "asCharacter": "Adm. Tom 'Iceman' Kazanskyas Adm. Tom 'Iceman' Kazansky"
+      },
+      {
+        "id": "nm1506981",
+        "image": "https://imdb-api.com/images/original/MV5BOTYzMzIzMjU2NF5BMl5BanBnXkFtZTgwNDkwNDE2NDM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Bashir Salahuddin",
+        "asCharacter": "Wo-1. Bernie 'Hondo' Colemanas Wo-1. Bernie 'Hondo' Coleman"
+      },
+      {
+        "id": "nm0358316",
+        "image": "https://imdb-api.com/images/original/MV5BNzg0MzA4MTY5M15BMl5BanBnXkFtZTcwODg2MTIwOQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jon Hamm",
+        "asCharacter": "Adm. Beau 'Cyclone' Simpsonas Adm. Beau 'Cyclone' Simpson"
+      },
+      {
+        "id": "nm0663174",
+        "image": "https://imdb-api.com/images/original/MV5BYjM3MDU2ZjQtZTI2MC00YzRjLWI5NDAtMDBkNzdjZWNjNWIzXkEyXkFqcGdeQXVyMjQ4ODk2MTE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Charles Parnell",
+        "asCharacter": "Adm. Solomon 'Warlock' Batesas Adm. Solomon 'Warlock' Bates"
+      },
+      {
+        "id": "nm4834815",
+        "image": "https://imdb-api.com/images/original/MV5BYjUyNTAyYjEtMWZjYy00Y2Y0LWJiM2YtZDdkZWE3ZmYxMDA3XkEyXkFqcGdeQXVyMjU5NzUwMDQ@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Monica Barbaro",
+        "asCharacter": "Lt. Natasha 'Phoenix' Traceas Lt. Natasha 'Phoenix' Trace"
+      },
+      {
+        "id": "nm5730649",
+        "image": "https://imdb-api.com/images/original/MV5BYzk1ZTllMDEtMGI0Yy00NmU5LTk2N2ItZWUyOTYzNjQyMGY2XkEyXkFqcGdeQXVyNzA0MTIyNjQ@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Lewis Pullman",
+        "asCharacter": "Lt. Robert 'Bob' Floydas Lt. Robert 'Bob' Floyd"
+      },
+      {
+        "id": "nm1337350",
+        "image": "https://imdb-api.com/images/original/MV5BNjFhYmJjYzctMzRlYS00NDM5LTg5NTktMjUwMjc5OTMxM2RkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jay Ellis",
+        "asCharacter": "Lt. Reuben 'Payback' Fitchas Lt. Reuben 'Payback' Fitch"
+      },
+      {
+        "id": "nm6639989",
+        "image": "https://imdb-api.com/images/original/MV5BOWE0MTIyMDctMzgwYi00YWNlLWI3YTgtM2FiYjZiMmVjZWQzXkEyXkFqcGdeQXVyODU3MDE4ODU@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Danny Ramirez",
+        "asCharacter": "Lt. Mickey 'Fanboy' Garciaas Lt. Mickey 'Fanboy' Garcia"
+      },
+      {
+        "id": "nm1412974",
+        "image": "https://imdb-api.com/images/original/MV5BMGEzMTIwM2UtYjc5MC00ZGI4LWJiOTAtYzAwZmU0OTYzYWIxXkEyXkFqcGdeQXVyNDg0MzQyNA@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Glen Powell",
+        "asCharacter": "Lt. Jake 'Hangman' Seresinas Lt. Jake 'Hangman' Seresin"
+      },
+      {
+        "id": "nm7453477",
+        "image": "https://imdb-api.com/images/original/MV5BNTg3N2U3NzEtMjRlOC00ODM1LWI4Y2EtYWU2OTM5ZDgyNzI1XkEyXkFqcGdeQXVyNjc3OTQyOTA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jack Schumacher",
+        "asCharacter": "Lt. Neil 'Omaha' Vikanderas Lt. Neil 'Omaha' Vikander"
+      },
+      {
+        "id": "nm3254274",
+        "image": "https://imdb-api.com/images/original/MV5BNWFmYmI1NTctY2NmYy00ZmNjLWIyOGQtMmY5ZjlmNTgxNGUxXkEyXkFqcGdeQXVyNDE1MjM3MTk@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Manny Jacinto",
+        "asCharacter": "Lt. Billy 'Fritz' Avaloneas Lt. Billy 'Fritz' Avalone"
+      },
+      {
+        "id": "nm2745297",
+        "image": "https://imdb-api.com/images/original/MV5BY2IwOTRlMTQtNzlmMi00ZjdlLWFjMGUtYjQ0ZGU5MTcyNDU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Kara Wang",
+        "asCharacter": "Lt. Callie 'Halo' Bassettas Lt. Callie 'Halo' Bassett"
+      },
+      {
+        "id": "nm8241861",
+        "image": "https://imdb-api.com/images/original/MV5BNmQ4M2YyOTctMDQzMC00YWY4LWFhNTItNTg2MDI5YTI2YjUyXkEyXkFqcGdeQXVyNjgwNTYzODM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Greg Tarzan Davis",
+        "asCharacter": "Lt. Javy 'Coyote' Machadoas Lt. Javy 'Coyote' Machado"
+      },
+      {
+        "id": "nm4917623",
+        "image": "https://imdb-api.com/images/original/MV5BMzliNGRmZmUtOTI1Yy00Nzk2LTk3Y2EtODAyMzc3N2NhOTliXkEyXkFqcGdeQXVyMjk3MTE2OTc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jake Picking",
+        "asCharacter": "Lt. Brigham 'Harvard' Lennoxas Lt. Brigham 'Harvard' Lennox"
+      },
+      {
+        "id": "nm3100463",
+        "image": "https://imdb-api.com/images/original/MV5BZjkyZmFmMTktNTlmNy00NWNkLWI1ZTMtYzM4M2VkN2FmYTQzXkEyXkFqcGdeQXVyMTk3NDU2MTE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Raymond Lee",
+        "asCharacter": "Lt. Logan 'Yale' Leeas Lt. Logan 'Yale' Lee"
+      }
+    ],
+    "fullCast": null,
+    "genres": "Action, Drama",
+    "genreList": [
+      {
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Drama",
+        "value": "Drama"
+      }
+    ],
+    "companies": "Paramount Pictures, Skydance Media, Jerry Bruckheimer Films",
+    "companyList": [
+      {
+        "id": "co0023400",
+        "name": "Paramount Pictures"
+      },
+      {
+        "id": "co0152219",
+        "name": "Skydance Media"
+      },
+      {
+        "id": "co0026281",
+        "name": "Jerry Bruckheimer Films"
+      }
+    ],
+    "countries": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+    "countryList": [
+      {
+        "key": "USA",
+        "value": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ"
+      }
+    ],
+    "languages": "Английский",
+    "languageList": [
+      {
+        "key": "English",
+        "value": "Английский"
+      }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "8.7",
+    "imDbRatingVotes": "42626",
+    "metacriticRating": "78",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+      "budget": "",
+      "openingWeekendUSA": "",
+      "grossUSA": "$51,800,000",
+      "cumulativeWorldwideGross": "$116,500,000"
+    },
+    "tagline": null,
+    "keywords": "sequel,aviation,fighter jet,fighter aircraft,naval aviation",
+    "keywordList": [
+      "sequel",
+      "aviation",
+      "fighter jet",
+      "fighter aircraft",
+      "naval aviation"
+    ],
+    "similars": [
+      {
+        "id": "tt0092099",
+        "title": "Top Gun",
+        "image": "https://imdb-api.com/images/original/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.9"
+      },
+      {
+        "id": "tt8466564",
+        "title": "Obi-Wan Kenobi",
+        "image": "https://imdb-api.com/images/original/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.3"
+      },
+      {
+        "id": "tt9419884",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "image": "https://imdb-api.com/images/original/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.3"
+      },
+      {
+        "id": "tt9603212",
+        "title": "Mission: Impossible - Dead Reckoning - Part One",
+        "image": "https://imdb-api.com/images/original/MV5BZmM1MmI1MjctOTkyMi00MjZhLWEwN2MtYjEwNGRjNmUxZmVjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": ""
+      },
+      {
+        "id": "tt10857160",
+        "title": "She-Hulk: Attorney at Law",
+        "image": "https://imdb-api.com/images/original/MV5BMWE3MTBhM2QtZjBjNC00YTIzLWJhMTgtYjdhNDEwMmI1NDJmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": ""
+      },
+      {
+        "id": "tt3829920",
+        "title": "Only the Brave",
+        "image": "https://imdb-api.com/images/original/MV5BYWFlOWI3YTMtYTk3NS00YWQ2LTlmYTMtZjk0ZDk4Y2NjODI0XkEyXkFqcGdeQXVyNTQxNTQ4Mg@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.6"
+      },
+      {
+        "id": "tt4912910",
+        "title": "Mission: Impossible - Fallout",
+        "image": "https://imdb-api.com/images/original/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.7"
+      },
+      {
+        "id": "tt6710474",
+        "title": "Everything Everywhere All at Once",
+        "image": "https://imdb-api.com/images/original/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.6957_AL_.jpg",
+        "imDbRating": "8.4"
+      },
+      {
+        "id": "tt9253284",
+        "title": "Andor",
+        "image": "https://imdb-api.com/images/original/MV5BYzFjN2JlMWMtMmU0ZC00ZjQ3LWJlZmYtMDg3YWFkN2MxYWZkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": ""
+      },
+      {
+        "id": "tt13841850",
+        "title": "Men",
+        "image": "https://imdb-api.com/images/original/MV5BZGQ2ZDNiMjgtMTNhNS00MjUxLWFkYTMtYTI1OTE0MmQ2MmJkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.3"
+      },
+      {
+        "id": "tt2326220",
+        "title": "Top Gun 2: Back to Traffic School",
+        "image": "https://imdb-api.com/images/original/MV5BZmZiNDVmMDgtMzIzNS00YmUzLTg2MTctOTAwYTY3NDZmYjZlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQzNzQwNjg@._V1_Ratio0.7536_AL_.jpg",
+        "imDbRating": "6.3"
+      },
+      {
+        "id": "tt4574334",
+        "title": "Stranger Things",
+        "image": "https://imdb-api.com/images/original/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8019_AL_.jpg",
+        "imDbRating": "8.7"
+      }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+  },
+  "Doctor Strange in the Multiverse of Madness": {
+    "id": "tt9419884",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "originalTitle": "",
+    "fullTitle": "Doctor Strange in the Multiverse of Madness (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6751_AL_.jpg",
+    "releaseDate": "2022-05-06",
+    "runtimeMins": "126",
+    "runtimeStr": "2h 6min",
+    "plot": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+    "plotLocal": "Продолжение магических приключений Доктора Стрэнджа в новых мистических мирах и в противостоянии с новыми врагами.",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Sam Raimi",
+    "directorList": [
+      {
+        "id": "nm0000600",
+        "name": "Sam Raimi"
+      }
+    ],
+    "writers": "Michael Waldron",
+    "writerList": [
+      {
+        "id": "nm5642271",
+        "name": "Michael Waldron"
+      }
+    ],
+    "stars": "Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",
+    "starList": [
+      {
+        "id": "nm1212722",
+        "name": "Benedict Cumberbatch"
+      },
+      {
+        "id": "nm0647634",
+        "name": "Elizabeth Olsen"
+      },
+      {
+        "id": "nm0252230",
+        "name": "Chiwetel Ejiofor"
+      }
+    ],
+    "actorList": [
+      {
+        "id": "nm1212722",
+        "image": "https://imdb-api.com/images/original/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Benedict Cumberbatch",
+        "asCharacter": "Doctor Stephen Strangeas Doctor Stephen Strange"
+      },
+      {
+        "id": "nm0647634",
+        "image": "https://imdb-api.com/images/original/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Elizabeth Olsen",
+        "asCharacter": "Wanda Maximoffas Wanda Maximoff…"
+      },
+      {
+        "id": "nm0252230",
+        "image": "https://imdb-api.com/images/original/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Chiwetel Ejiofor",
+        "asCharacter": "Baron Mordoas Baron Mordo"
+      },
+      {
+        "id": "nm0938950",
+        "image": "https://imdb-api.com/images/original/MV5BMDMxOGExNWItYjM4YS00ZDJhLWJiM2UtMTViYjhhNTM4OGYxXkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Benedict Wong",
+        "asCharacter": "Wongas Wong"
+      },
+      {
+        "id": "nm7961780",
+        "image": "https://imdb-api.com/images/original/MV5BOWM0NGFkYmQtYjM4My00YzQ0LWJjOWItM2VkNWE1Nzc3MTI4XkEyXkFqcGdeQXVyODU1ODI5NDA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Xochitl Gomez",
+        "asCharacter": "America Chavezas America Chavez"
+      },
+      {
+        "id": "nm1046097",
+        "image": "https://imdb-api.com/images/original/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Rachel McAdams",
+        "asCharacter": "Dr. Christine Palmeras Dr. Christine Palmer"
+      },
+      {
+        "id": "nm4810527",
+        "image": "https://imdb-api.com/images/original/MV5BMDhkZGQ5OTMtODUyZS00MzY2LWEwNDUtZTY2NGViOWEzMjliXkEyXkFqcGdeQXVyNTg3OTIyNzc@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Jett Klyne",
+        "asCharacter": "Tommy Maximoffas Tommy Maximoff"
+      },
+      {
+        "id": "nm6623135",
+        "image": "https://imdb-api.com/images/original/MV5BZTVhMDRlYzktMjNhNy00YzYyLTg5YjYtYTEzZGUxZjg1NTlhXkEyXkFqcGdeQXVyODA4MTYwMjc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Julian Hilliard",
+        "asCharacter": "Billy Maximoffas Billy Maximoff"
+      },
+      {
+        "id": "nm0836121",
+        "image": "https://imdb-api.com/images/original/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Michael Stuhlbarg",
+        "asCharacter": "Dr. Nic Westas Dr. Nic West"
+      },
+      {
+        "id": "nm2017943",
+        "image": "https://imdb-api.com/images/original/MV5BZmRhZWVjZWMtMzUwZi00OTI3LThiMzAtY2VmMjU5YjQ0YjVjXkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Hayley Atwell",
+        "asCharacter": "Captain Carteras Captain Carter"
+      },
+      {
+        "id": "nm0609845",
+        "image": "https://imdb-api.com/images/original/MV5BNjk5ODY0NTkzMV5BMl5BanBnXkFtZTgwNjY3Mzc5NzE@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Anson Mount",
+        "asCharacter": "Black Boltas Black Bolt"
+      },
+      {
+        "id": "nm2736476",
+        "image": "https://imdb-api.com/images/original/MV5BMjI0ZGE0ZTYtYmY1MS00MGU0LWEwMDQtMzYxMDFmMmFjZjUyXkEyXkFqcGdeQXVyMzczOTY5ODk@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Lashana Lynch",
+        "asCharacter": "Captain Marvelas Captain Marvel"
+      },
+      {
+        "id": "nm1024677",
+        "image": "https://imdb-api.com/images/original/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "John Krasinski",
+        "asCharacter": "Reed Richardsas Reed Richards"
+      },
+      {
+        "id": "nm0001772",
+        "image": "https://imdb-api.com/images/original/MV5BMTc0MzU5ODQ5OF5BMl5BanBnXkFtZTYwODIwODk1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Patrick Stewart",
+        "asCharacter": "Professor Charles Xavieras Professor Charles Xavier"
+      },
+      {
+        "id": "nm0000234",
+        "image": "https://imdb-api.com/images/original/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Charlize Theron",
+        "asCharacter": "Cleaas Clea"
+      },
+      {
+        "id": "nm5956547",
+        "image": "https://imdb-api.com/images/original/MV5BNWEwMWUwNzItNWQ1Yi00ZGZiLTllNTYtYmM5NjRhZDA3YzY2XkEyXkFqcGdeQXVyNzE5NDI1MTY@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Sheila Atim",
+        "asCharacter": "Saraas Sara"
+      },
+      {
+        "id": "nm9273822",
+        "image": "https://imdb-api.com/images/original/MV5BYjViNTFhNzQtMjdhYi00OTlmLTk0NzYtZGNkYzE2ZWYxZjcyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Adam Hugill",
+        "asCharacter": "Rintrahas Rintrah"
+      },
+      {
+        "id": "nm0132257",
+        "image": "https://imdb-api.com/images/original/MV5BOTY2MTg0OTEzOV5BMl5BanBnXkFtZTgwNzQ3NTcwMjE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Bruce Campbell",
+        "asCharacter": "Pizza Poppaas Pizza Poppa"
+      }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Fantasy",
+    "genreList": [
+      {
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Adventure",
+        "value": "Adventure"
+      },
+      {
+        "key": "Fantasy",
+        "value": "Fantasy"
+      }
+    ],
+    "companies": "Marvel Studios",
+    "companyList": [
+      {
+        "id": "co0051941",
+        "name": "Marvel Studios"
+      }
+    ],
+    "countries": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+    "countryList": [
+      {
+        "key": "USA",
+        "value": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ"
+      }
+    ],
+    "languages": "Английский",
+    "languageList": [
+      {
+        "key": "English",
+        "value": "Английский"
+      }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "7.3",
+    "imDbRatingVotes": "192797",
+    "metacriticRating": "60",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+      "budget": "$200,000,000 (estimated)",
+      "openingWeekendUSA": "$187,420,998",
+      "grossUSA": "$382,082,116",
+      "cumulativeWorldwideGross": "$885,015,417"
+    },
+    "tagline": "Enter a new dimension of Strange.",
+    "keywords": "sequel,doctor strange character,marvel comics,second part,superhero",
+    "keywordList": [
+      "sequel",
+      "doctor strange character",
+      "marvel comics",
+      "second part",
+      "superhero"
+    ],
+    "similars": [
+      {
+        "id": "tt1211837",
+        "title": "Doctor Strange",
+        "image": "https://imdb-api.com/images/original/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.5"
+      },
+      {
+        "id": "tt10234724",
+        "title": "Moon Knight",
+        "image": "https://imdb-api.com/images/original/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.4"
+      },
+      {
+        "id": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "image": "https://imdb-api.com/images/original/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.3"
+      },
+      {
+        "id": "tt1877830",
+        "title": "The Batman",
+        "image": "https://imdb-api.com/images/original/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.9"
+      },
+      {
+        "id": "tt9140560",
+        "title": "WandaVision",
+        "image": "https://imdb-api.com/images/original/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.0"
+      },
+      {
+        "id": "tt4154796",
+        "title": "Avengers: Endgame",
+        "image": "https://imdb-api.com/images/original/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.4"
+      },
+      {
+        "id": "tt1630029",
+        "title": "Avatar: The Way of Water",
+        "image": "https://imdb-api.com/images/original/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.8019_AL_.jpg",
+        "imDbRating": ""
+      },
+      {
+        "id": "tt1477834",
+        "title": "Aquaman",
+        "image": "https://imdb-api.com/images/original/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.8"
+      },
+      {
+        "id": "tt0499549",
+        "title": "Avatar",
+        "image": "https://imdb-api.com/images/original/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.8"
+      },
+      {
+        "id": "tt4154756",
+        "title": "Avengers: Infinity War",
+        "image": "https://imdb-api.com/images/original/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.4"
+      },
+      {
+        "id": "tt3501632",
+        "title": "Thor: Ragnarok",
+        "image": "https://imdb-api.com/images/original/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.9"
+      },
+      {
+        "id": "tt11138512",
+        "title": "The Northman",
+        "image": "https://imdb-api.com/images/original/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.3"
+      }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+  },
+  "The Last Samurai": {
+    "id": "tt0325710",
+    "title": "The Last Samurai",
+    "originalTitle": "",
+    "fullTitle": "The Last Samurai (2003)",
+    "type": "Movie",
+    "year": "2003",
+    "image": "https://imdb-api.com/images/original/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_Ratio0.6751_AL_.jpg",
+    "releaseDate": "2003-12-05",
+    "runtimeMins": "154",
+    "runtimeStr": "2h 34min",
+    "plot": "In the 1870s, Captain Nathan Algren (Tom Cruise), a cynical veteran of the American Civil War, who will work for anyone, is hired by Americans who want lucrative contracts with the Emperor of Japan to train the peasant conscripts for the first standing Imperial Army in modern warfare using firearms. The Imperial Omura (Masato Harada) cabinet's first priority is to repress a rebellion of traditionalist Samurai, hereditary warriors, who remain devoted to the sacred dynasty, but reject the Westernizing policy, and even refuse firearms. Yet, when his ill-prepared superior force sets out too soon, their panic allows the sword-wielding samurai to crush them. Badly wounded, Algren's courageous stand makes the samurai leader Katsumoto (Ken Watanabe) spare his life. Once nursed to health, he learns to know and respect the old Japanese way, and participates as advisor in Katsumoto's failed attempt to save the Bushido tradition, but Omura gets repressive laws enacted. He must now choose to honor his loyalty to one of the embittered sides when the conflict returns to the battlefield.",
+    "plotLocal": "Действие разворачивается в Японии 70-ых годов девятнадцатого века. Капитан Нейтон Альгрен, уважаемый американский военный офицер, нанят Императором Японии для обучения первой армии Страны Восходящего Солнца современному искусству ведения боевых действий.Император пытается искоренить древних воинов-самураев, готовясь к более прозападной политике правительства…",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 4 Oscars, 20 wins & 67 nominations total",
+    "directors": "Edward Zwick",
+    "directorList": [
+      {
+        "id": "nm0001880",
+        "name": "Edward Zwick"
+      }
+    ],
+    "writers": "John Logan, Edward Zwick, Marshall Herskovitz",
+    "writerList": [
+      {
+        "id": "nm0517589",
+        "name": "John Logan"
+      },
+      {
+        "id": "nm0001880",
+        "name": "Edward Zwick"
+      },
+      {
+        "id": "nm0380980",
+        "name": "Marshall Herskovitz"
+      }
+    ],
+    "stars": "Tom Cruise, Ken Watanabe, Billy Connolly",
+    "starList": [
+      {
+        "id": "nm0000129",
+        "name": "Tom Cruise"
+      },
+      {
+        "id": "nm0913822",
+        "name": "Ken Watanabe"
+      },
+      {
+        "id": "nm0175262",
+        "name": "Billy Connolly"
+      }
+    ],
+    "actorList": [
+      {
+        "id": "nm0000129",
+        "image": "https://imdb-api.com/images/original/MV5BMTk1MjM3NTU5M15BMl5BanBnXkFtZTcwMTMyMjAyMg@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Tom Cruise",
+        "asCharacter": "Nathan Algrenas Nathan Algren"
+      },
+      {
+        "id": "nm0913822",
+        "image": "https://imdb-api.com/images/original/MV5BMTQzMTUzNjc4Nl5BMl5BanBnXkFtZTcwMTUyODU2Mw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Ken Watanabe",
+        "asCharacter": "Katsumotoas Katsumoto"
+      },
+      {
+        "id": "nm0175262",
+        "image": "https://imdb-api.com/images/original/MV5BMTQzMzM2MTA4Ml5BMl5BanBnXkFtZTYwMzIxNTM1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Billy Connolly",
+        "asCharacter": "Zebulon Gantas Zebulon Gant"
+      },
+      {
+        "id": "nm0040472",
+        "image": "https://imdb-api.com/images/original/MV5BMTk4MjE2NDUzOV5BMl5BanBnXkFtZTgwNjE5OTM5NzE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "William Atherton",
+        "asCharacter": "Winchester Repas Winchester Rep"
+      },
+      {
+        "id": "nm0511349",
+        "image": "https://imdb-api.com/images/original/MV5BOTU2ZTdhN2YtYTRhNi00MTk1LTg2Y2MtMDc5MDM2OWM0YWMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Chad Lindberg",
+        "asCharacter": "Winchester Rep Assistantas Winchester Rep Assistant"
+      },
+      {
+        "id": "nm1491148",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ray Godshall Sr.",
+        "asCharacter": "Convention Hall Attendeeas Convention Hall Attendee"
+      },
+      {
+        "id": "nm0001282",
+        "image": "https://imdb-api.com/images/original/MV5BMTk3NTI3ODgwM15BMl5BanBnXkFtZTgwMjM2NTE2NzE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Tony Goldwyn",
+        "asCharacter": "Colonel Bagleyas Colonel Bagley"
+      },
+      {
+        "id": "nm0361735",
+        "image": "https://imdb-api.com/images/original/MV5BODQ4MjYyMDQ2Nl5BMl5BanBnXkFtZTYwOTkxOTQ1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Masato Harada",
+        "asCharacter": "Omuraas Omura"
+      },
+      {
+        "id": "nm1372891",
+        "image": "https://imdb-api.com/images/original/MV5BMjk4MDk3MzIyOF5BMl5BanBnXkFtZTgwODY3NjYzMjE@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Masashi Odate",
+        "asCharacter": "Omura's Companionas Omura's Companion"
+      },
+      {
+        "id": "nm0468697",
+        "image": "https://imdb-api.com/images/original/MV5BMTE4MjUxODU2N15BMl5BanBnXkFyZXN1bWU@._V1_Ratio1.0000_AL_.jpg",
+        "name": "John Koyama",
+        "asCharacter": "Omura's Bodyguardas Omura's Bodyguard"
+      },
+      {
+        "id": "nm0001758",
+        "image": "https://imdb-api.com/images/original/MV5BMTQ3NzE2NzAxOF5BMl5BanBnXkFtZTYwNzIzODY1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Timothy Spall",
+        "asCharacter": "Simon Grahamas Simon Graham"
+      },
+      {
+        "id": "nm1258003",
+        "image": "https://imdb-api.com/images/original/MV5BMTcwODYzNTI4NV5BMl5BanBnXkFtZTgwOTE5NjYyNzM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Shichinosuke Nakamura",
+        "asCharacter": "Emperor Meijias Emperor Meiji"
+      },
+      {
+        "id": "nm0407033",
+        "image": "https://imdb-api.com/images/original/MV5BMTQ4NjE0MzAxOF5BMl5BanBnXkFtZTcwMjIwMDg4NQ@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Togo Igawa",
+        "asCharacter": "General Hasegawaas General Hasegawa"
+      },
+      {
+        "id": "nm1491167",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Satoshi Nikaido",
+        "asCharacter": "N.C.O.as N.C.O."
+      },
+      {
+        "id": "nm1491182",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Shintaro Wada",
+        "asCharacter": "Young Recruitas Young Recruit"
+      },
+      {
+        "id": "nm1259103",
+        "image": "https://imdb-api.com/images/original/MV5BM2Q3ZTU3MGEtNjhkNS00YTJlLWI5N2ItNGE0NzczMDc5ZDhmXkEyXkFqcGdeQXVyMjcyNTA0NDA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Shin Koyamada",
+        "asCharacter": "Nobutadaas Nobutada"
+      },
+      {
+        "id": "nm0760796",
+        "image": "https://imdb-api.com/images/original/MV5BMjE2MzY0NTM1Ml5BMl5BanBnXkFtZTcwNzQzNzMyMw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Hiroyuki Sanada",
+        "asCharacter": "Ujioas Ujio"
+      },
+      {
+        "id": "nm0837452",
+        "image": "https://imdb-api.com/images/original/MV5BMTc1YmU1ZWQtZDE2MC00YmZiLWI2NDgtN2ViZGQ5N2U2ODU3XkEyXkFqcGdeQXVyMTExMTc3NzU5._V1_Ratio1.0000_AL_.jpg",
+        "name": "Shun Sugata",
+        "asCharacter": "Nakaoas Nakao"
+      }
+    ],
+    "fullCast": null,
+    "genres": "Action, Drama",
+    "genreList": [
+      {
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Drama",
+        "value": "Drama"
+      }
+    ],
+    "companies": "Warner Bros., The Bedford Falls Company, Cruise/Wagner Productions",
+    "companyList": [
+      {
+        "id": "co0002663",
+        "name": "Warner Bros."
+      },
+      {
+        "id": "co0014925",
+        "name": "The Bedford Falls Company"
+      },
+      {
+        "id": "co0012382",
+        "name": "Cruise/Wagner Productions"
+      }
+    ],
+    "countries": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ, Новая Зеландия, Япония",
+    "countryList": [
+      {
+        "key": "USA",
+        "value": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ"
+      },
+      {
+        "key": "New Zealand",
+        "value": "Новая Зеландия"
+      },
+      {
+        "key": "Japan",
+        "value": "Япония"
+      }
+    ],
+    "languages": "Английский, Японский язык",
+    "languageList": [
+      {
+        "key": "English",
+        "value": "Английский"
+      },
+      {
+        "key": "Japanese",
+        "value": "Японский язык"
+      }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.8",
+    "imDbRatingVotes": "431365",
+    "metacriticRating": "55",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+      "budget": "$140,000,000 (estimated)",
+      "openingWeekendUSA": "$24,271,354",
+      "grossUSA": "$111,127,263",
+      "cumulativeWorldwideGross": "$454,627,263"
+    },
+    "tagline": "In the face of an enemy, in the Heart of One Man, Lies the Soul of a Warrior.",
+    "keywords": "historically inaccurate,alcoholic,prostitute,white savior,drunkenness",
+    "keywordList": [
+      "historically inaccurate",
+      "alcoholic",
+      "prostitute",
+      "white savior",
+      "drunkenness"
+    ],
+    "similars": [
+      {
+        "id": "tt0116695",
+        "title": "Jerry Maguire",
+        "image": "https://imdb-api.com/images/original/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.3"
+      },
+      {
+        "id": "tt0181689",
+        "title": "Minority Report",
+        "image": "https://imdb-api.com/images/original/MV5BZTI3YzZjZjEtMDdjOC00OWVjLTk0YmYtYzI2MGMwZjFiMzBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.7"
+      },
+      {
+        "id": "tt0985699",
+        "title": "Valkyrie",
+        "image": "https://imdb-api.com/images/original/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.1"
+      },
+      {
+        "id": "tt0117060",
+        "title": "Mission: Impossible",
+        "image": "https://imdb-api.com/images/original/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.1"
+      },
+      {
+        "id": "tt1631867",
+        "title": "Edge of Tomorrow",
+        "image": "https://imdb-api.com/images/original/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.9"
+      },
+      {
+        "id": "tt0407304",
+        "title": "War of the Worlds",
+        "image": "https://imdb-api.com/images/original/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.5"
+      },
+      {
+        "id": "tt0332452",
+        "title": "Troy",
+        "image": "https://imdb-api.com/images/original/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.3"
+      },
+      {
+        "id": "tt0369339",
+        "title": "Collateral",
+        "image": "https://imdb-api.com/images/original/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.5"
+      },
+      {
+        "id": "tt0104257",
+        "title": "A Few Good Men",
+        "image": "https://imdb-api.com/images/original/MV5BMmRlZDQ1MmUtMzE2Yi00YTkxLTk1MGMtYmIyYWQwODcxYzRlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.7"
+      },
+      {
+        "id": "tt1483013",
+        "title": "Oblivion",
+        "image": "https://imdb-api.com/images/original/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.0"
+      },
+      {
+        "id": "tt3532216",
+        "title": "American Made",
+        "image": "https://imdb-api.com/images/original/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.1"
+      },
+      {
+        "id": "tt0095953",
+        "title": "Rain Man",
+        "image": "https://imdb-api.com/images/original/MV5BMzVjNzI4NzYtMjE4NS00M2IzLWFkOWMtOTYwMWUzN2ZlNGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.0"
+      }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+  },
+  "The Northman": {
+    "id": "tt11138512",
+    "title": "The Northman",
+    "originalTitle": "",
+    "fullTitle": "The Northman (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_Ratio0.6751_AL_.jpg",
+    "releaseDate": "2022-04-22",
+    "runtimeMins": "137",
+    "runtimeStr": "2h 17min",
+    "plot": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+    "plotLocal": "Фильм основан на саге о Гамлете из древнескандинавской хроники, записанной Саксоном Грамматиком. Сюжет рассказывает о том, как викинг Фьолнир убивает своего брата, конунга Хорвендила, и берёт в жёны его супругу Гудрун. Амлет, сын Хорвендила, скрывается и клянётся отомстить убийце отца. Когда Амлет становится старше, он объединяется со славянской ведьмой Ольгой, похищенной викингами, и стремится вернуться домой, чтобы убить Фьолнира.",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Robert Eggers",
+    "directorList": [
+      {
+        "id": "nm3211470",
+        "name": "Robert Eggers"
+      }
+    ],
+    "writers": "Sjón, Robert Eggers",
+    "writerList": [
+      {
+        "id": "nm0797604",
+        "name": "Sjón"
+      },
+      {
+        "id": "nm3211470",
+        "name": "Robert Eggers"
+      }
+    ],
+    "stars": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
+    "starList": [
+      {
+        "id": "nm0002907",
+        "name": "Alexander Skarsgård"
+      },
+      {
+        "id": "nm0000173",
+        "name": "Nicole Kidman"
+      },
+      {
+        "id": "nm0051903",
+        "name": "Claes Bang"
+      }
+    ],
+    "actorList": [
+      {
+        "id": "nm0002907",
+        "image": "https://imdb-api.com/images/original/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Alexander Skarsgård",
+        "asCharacter": "Amlethas Amleth"
+      },
+      {
+        "id": "nm0000173",
+        "image": "https://imdb-api.com/images/original/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Nicole Kidman",
+        "asCharacter": "Queen Gudrúnas Queen Gudrún"
+      },
+      {
+        "id": "nm0051903",
+        "image": "https://imdb-api.com/images/original/MV5BMjMzNzY1NTUwOF5BMl5BanBnXkFtZTcwMTIwMTc5OQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Claes Bang",
+        "asCharacter": "Fjölnir The Brotherlessas Fjölnir The Brotherless"
+      },
+      {
+        "id": "nm0000160",
+        "image": "https://imdb-api.com/images/original/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_Ratio1.0000_AL_.jpg",
+        "name": "Ethan Hawke",
+        "asCharacter": "King Aurvandil War-Ravenas King Aurvandil War-Raven"
+      },
+      {
+        "id": "nm5896355",
+        "image": "https://imdb-api.com/images/original/MV5BMTllYmE5YTYtZGZmYy00ZTBlLWJlODEtYWQ0ZmU1YTJkMjJlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Anya Taylor-Joy",
+        "asCharacter": "Olga of the Birch Forestas Olga of the Birch Forest"
+      },
+      {
+        "id": "nm6625833",
+        "image": "https://imdb-api.com/images/original/MV5BYTcxODhjNGYtODQwMi00NjFiLTk2NDgtMDY0NDZhYTVmMTcwXkEyXkFqcGdeQXVyNTczMzM2OTA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Gustav Lindh",
+        "asCharacter": "Thórir The Proudas Thórir The Proud"
+      },
+      {
+        "id": "nm11830110",
+        "image": "https://imdb-api.com/images/original/MV5BNmM1NDE5YTgtM2E4Ny00NDE0LTgzMWItYjliMGFjNmI0ZDkwXkEyXkFqcGdeQXVyMTI0Mjg2ODg4._V1_Ratio1.0000_AL_.jpg",
+        "name": "Elliott Rose",
+        "asCharacter": "Gunnaras Gunnar"
+      },
+      {
+        "id": "nm0000353",
+        "image": "https://imdb-api.com/images/original/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Willem Dafoe",
+        "asCharacter": "Heimir The Foolas Heimir The Fool"
+      },
+      {
+        "id": "nm4969843",
+        "image": "https://imdb-api.com/images/original/MV5BZWI0YTc5MjYtODgxMy00NzgwLTg2ODItNTdkMjcyMDUyZjkxXkEyXkFqcGdeQXVyMTQwNDIxNDA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Phill Martin",
+        "asCharacter": "Hallgrímr Half-Trollas Hallgrímr Half-Troll"
+      },
+      {
+        "id": "nm6198408",
+        "image": "https://imdb-api.com/images/original/MV5BYjQ2ZWE3MzEtNGI0OS00MGEzLThiM2ItYmM0MDhhNzI5MzVhL2ltYWdlXkEyXkFqcGdeQXVyNzEwNDQ5OTA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Eldar Skar",
+        "asCharacter": "Finnr The Nose-Stubas Finnr The Nose-Stub"
+      },
+      {
+        "id": "nm0288260",
+        "image": "https://imdb-api.com/images/original/MV5BOTdjZTZhODgtZTUwOC00MTU4LTg1MWMtZGZjZjE3Yzk0OTQwXkEyXkFqcGdeQXVyMjM3MTk5OTA@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Olwen Fouéré",
+        "asCharacter": "Áshildur Hofgythjaas Áshildur Hofgythja"
+      },
+      {
+        "id": "nm11542893",
+        "image": "https://imdb-api.com/images/original/MV5BODYwYmE0MDUtNjA1Yi00MzA4LTgxYzgtODU5OWVhYmFiNzYwXkEyXkFqcGdeQXVyMTI0Mzc5NDM5._V1_Ratio1.0000_AL_.jpg",
+        "name": "Edgar Abram",
+        "asCharacter": "Hersveinn Battle Hardas Hersveinn Battle Hard"
+      },
+      {
+        "id": "nm7801403",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Gassmann",
+        "asCharacter": "Hjalti Battle Hastyas Hjalti Battle Hasty"
+      },
+      {
+        "id": "nm0797614",
+        "image": "https://imdb-api.com/images/original/MV5BMDliM2Y0ZGItMmUzYi00OTgyLTgyNWMtNmQ5NDAwMzk2M2FjXkEyXkFqcGdeQXVyNDg2MzE2MTU@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Ingvar Sigurdsson",
+        "asCharacter": "He-Witchas He-Witch"
+      },
+      {
+        "id": "nm10861182",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Oscar Novak",
+        "asCharacter": "Young Amlethas Young Amleth"
+      },
+      {
+        "id": "nm1546538",
+        "image": "https://imdb-api.com/images/original/MV5BYWM4MDJhOGUtYmRkMC00YmU1LWIxMjYtNGE1ZjExYWNjOWY5XkEyXkFqcGdeQXVyODI4NTkyOTQ@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Jack Walsh",
+        "asCharacter": "Hallur Freymunduras Hallur Freymundur"
+      },
+      {
+        "id": "nm0001951",
+        "image": "https://imdb-api.com/images/original/MV5BMjEwNTc2OTM2N15BMl5BanBnXkFtZTYwMDI4NjY1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Björk",
+        "asCharacter": "Seeressas Seeress"
+      },
+      {
+        "id": "nm1613839",
+        "image": "https://imdb-api.com/images/original/MV5BNWM0MDI3MWYtNDY5ZS00Yjg5LWIyYTctMGIyYTM3YzVjNWY2XkEyXkFqcGdeQXVyNDc2ODE3OQ@@._V1_Ratio1.0286_AL_.jpg",
+        "name": "Ian Whyte",
+        "asCharacter": "The Mound Dwelleras The Mound Dweller"
+      }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Drama",
+    "genreList": [
+      {
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Adventure",
+        "value": "Adventure"
+      },
+      {
+        "key": "Drama",
+        "value": "Drama"
+      }
+    ],
+    "companies": "New Regency Productions, Universal Pictures, Focus Features",
+    "companyList": [
+      {
+        "id": "co0007127",
+        "name": "New Regency Productions"
+      },
+      {
+        "id": "co0005073",
+        "name": "Universal Pictures"
+      },
+      {
+        "id": "co0042399",
+        "name": "Focus Features"
+      }
+    ],
+    "countries": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+    "countryList": [
+      {
+        "key": "USA",
+        "value": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ"
+      }
+    ],
+    "languages": "Английский, Скандинавский, Старый",
+    "languageList": [
+      {
+        "key": "English",
+        "value": "Английский"
+      },
+      {
+        "key": "Norse, Old",
+        "value": "Скандинавский, Старый"
+      }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.3",
+    "imDbRatingVotes": "106437",
+    "metacriticRating": "82",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+      "budget": "$60,000,000 (estimated)",
+      "openingWeekendUSA": "$12,290,800",
+      "grossUSA": "$33,924,730",
+      "cumulativeWorldwideGross": "$67,134,730"
+    },
+    "tagline": null,
+    "keywords": "hairy bush,female full frontal nudity,viking,viking age,based on legend",
+    "keywordList": [
+      "hairy bush",
+      "female full frontal nudity",
+      "viking",
+      "viking age",
+      "based on legend"
+    ],
+    "similars": [
+      {
+        "id": "tt6710474",
+        "title": "Everything Everywhere All at Once",
+        "image": "https://imdb-api.com/images/original/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.6957_AL_.jpg",
+        "imDbRating": "8.4"
+      },
+      {
+        "id": "tt1877830",
+        "title": "The Batman",
+        "image": "https://imdb-api.com/images/original/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.9"
+      },
+      {
+        "id": "tt13320622",
+        "title": "The Lost City",
+        "image": "https://imdb-api.com/images/original/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.2"
+      },
+      {
+        "id": "tt9419884",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "image": "https://imdb-api.com/images/original/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.3"
+      },
+      {
+        "id": "tt4263482",
+        "title": "The Witch",
+        "image": "https://imdb-api.com/images/original/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.9"
+      },
+      {
+        "id": "tt11291274",
+        "title": "The Unbearable Weight of Massive Talent",
+        "image": "https://imdb-api.com/images/original/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.4"
+      },
+      {
+        "id": "tt5108870",
+        "title": "Morbius",
+        "image": "https://imdb-api.com/images/original/MV5BNTA3N2Q0ZTAtODJjNy00MmQzLWJlMmItOGFmNDI0ODgxN2QwXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "5.2"
+      },
+      {
+        "id": "tt1464335",
+        "title": "Uncharted",
+        "image": "https://imdb-api.com/images/original/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.4"
+      },
+      {
+        "id": "tt7984734",
+        "title": "The Lighthouse",
+        "image": "https://imdb-api.com/images/original/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.4"
+      },
+      {
+        "id": "tt13560574",
+        "title": "X",
+        "image": "https://imdb-api.com/images/original/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.8019_AL_.jpg",
+        "imDbRating": "6.6"
+      },
+      {
+        "id": "tt1798632",
+        "title": "Firestarter",
+        "image": "https://imdb-api.com/images/original/MV5BMWIzNzA4MmUtYTIzNy00Y2Q5LWIyM2YtZGRiYzM0ZWQzOTU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "4.6"
+      },
+      {
+        "id": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "image": "https://imdb-api.com/images/original/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.3"
+      }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+  },
+  "Obi-Wan Kenobi": {
+    "id": "tt8466564",
+    "title": "Obi-Wan Kenobi",
+    "originalTitle": "",
+    "fullTitle": "Obi-Wan Kenobi (TV Series 2022–2022)",
+    "type": "TVSeries",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6751_AL_.jpg",
+    "releaseDate": "2022-05-27",
+    "runtimeMins": null,
+    "runtimeStr": null,
+    "plot": "Jedi Master Obi-Wan Kenobi watches over young Luke Skywalker and evades the Empire's elite Jedi hunters during his exile on the desert planet Tatooine.",
+    "plotLocal": "В центре внимания Оби-Вана Кеноби через 10 лет после окончания Войн клонов, где он потерпел величайшее поражение; падение и развращение его лучшего друга и ученика-джедая, Энакина Скайуокера, ставшего злым Повелителем ситов Дартом Вейдером.",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "",
+    "directorList": [],
+    "writers": "",
+    "writerList": [],
+    "stars": "Vivien Lyra Blair, Ewan McGregor, Moses Ingram",
+    "starList": [
+      {
+        "id": "nm8643487",
+        "name": "Vivien Lyra Blair"
+      },
+      {
+        "id": "nm0000191",
+        "name": "Ewan McGregor"
+      },
+      {
+        "id": "nm9458718",
+        "name": "Moses Ingram"
+      }
+    ],
+    "actorList": [
+      {
+        "id": "nm8643487",
+        "image": "https://imdb-api.com/images/original/MV5BYmE2MWNiZmMtZGQ3My00MGJmLWJkMTMtODQ1ZTIzYTkyNmRhXkEyXkFqcGdeQXVyNzA3OTc5NzQ@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Vivien Lyra Blair",
+        "asCharacter": "Leia Organaas Leia Organa"
+      },
+      {
+        "id": "nm0000191",
+        "image": "https://imdb-api.com/images/original/MV5BMTg1MjQ0MDg0Nl5BMl5BanBnXkFtZTcwNjYyNjI5Mg@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Ewan McGregor",
+        "asCharacter": "Obi-Wan Kenobias Obi-Wan Kenobi"
+      },
+      {
+        "id": "nm9458718",
+        "image": "https://imdb-api.com/images/original/MV5BMWQ1MzIwN2EtZTdkOS00YzIzLTgzYjktMGI0NWJjYzUyZWE3XkEyXkFqcGdeQXVyODcyOTMxMTc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Moses Ingram",
+        "asCharacter": "Inquisitor Revaas Inquisitor Reva…"
+      },
+      {
+        "id": "nm0437646",
+        "image": "https://imdb-api.com/images/original/MV5BODJkYzkwZGMtNWU4NC00ZTdjLThmOTUtMjgxMTc4NGQ4YThjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Sung Kang",
+        "asCharacter": "Fifth Brotheras Fifth Brother"
+      },
+      {
+        "id": "nm1670029",
+        "image": "https://imdb-api.com/images/original/MV5BMjA4NjAyMDM2N15BMl5BanBnXkFtZTgwMDQ3ODgxNDM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Rupert Friend",
+        "asCharacter": "Grand Inquisitoras Grand Inquisitor"
+      },
+      {
+        "id": "nm0159789",
+        "image": "https://imdb-api.com/images/original/MV5BY2Y2NTE4YzYtMTA4OS00NzNmLWIxNzctMDEyMjE2NWU3YWNmXkEyXkFqcGdeQXVyODMwMzI4MTg@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Hayden Christensen",
+        "asCharacter": "Darth Vaderas Darth Vader"
+      },
+      {
+        "id": "nm3529685",
+        "image": "https://imdb-api.com/images/original/MV5BYWUyODI4MmYtNjdlYS00NWRhLTgwNjQtNGRjYWE3ZTAyNzQ2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_Ratio1.0000_AL_.jpg",
+        "name": "Kumail Nanjiani",
+        "asCharacter": "Haja Estreeas Haja Estree"
+      },
+      {
+        "id": "nm1509478",
+        "image": "https://imdb-api.com/images/original/MV5BMzE4Mjg3MTYyM15BMl5BanBnXkFtZTgwODkxOTUxNTM@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Benny Safdie",
+        "asCharacter": "Narias Nari"
+      },
+      {
+        "id": "nm0249291",
+        "image": "https://imdb-api.com/images/original/MV5BMTA0ODI1ODk4NzdeQTJeQWpwZ15BbWU3MDkwNjkzOTY@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Joel Edgerton",
+        "asCharacter": "Owen Larsas Owen Lars"
+      },
+      {
+        "id": "nm0682837",
+        "image": "https://imdb-api.com/images/original/MV5BNTFiNTg3NzktNjhkYS00YWU1LWIyNzgtYjYwYzJlMGNlYzg4XkEyXkFqcGdeQXVyMTAxOTMzNTE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Bonnie Piesse",
+        "asCharacter": "Beru Larsas Beru Lars"
+      },
+      {
+        "id": "nm0450274",
+        "image": "https://imdb-api.com/images/original/MV5BYWFiOTQxMTMtN2NmOS00YzYzLThkMDItYzcxMTllODhkZGQxXkEyXkFqcGdeQXVyMTAzMjA5MQ@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Simone Kessell",
+        "asCharacter": "Breha Organaas Breha Organa"
+      },
+      {
+        "id": "nm3038059",
+        "image": "https://imdb-api.com/images/original/MV5BNGJiNjE4M2EtOTFkYi00OWE5LTliMmQtNmY4ZDdmMzFlN2I1XkEyXkFqcGdeQXVyMTk0NjI2Mjk@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Marisé Álvarez",
+        "asCharacter": "Nycheas Nyche"
+      },
+      {
+        "id": "nm4224109",
+        "image": "https://imdb-api.com/images/original/MV5BMTQzMDE1OTcwMl5BMl5BanBnXkFtZTgwMjU2NDkwNDE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Maya Erskine",
+        "asCharacter": ""
+      },
+      {
+        "id": "nm6578009",
+        "image": "https://imdb-api.com/images/original/MV5BMzExMTU2NTQ2OF5BMl5BanBnXkFtZTgwMjQ0MzEzNzE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "O'Shea Jackson Jr.",
+        "asCharacter": ""
+      },
+      {
+        "id": "nm0281359",
+        "image": "https://imdb-api.com/images/original/MV5BMjEzMDU5NjAzM15BMl5BanBnXkFtZTcwOTk2ODMwMg@@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Flea",
+        "asCharacter": "Vect Nokruas Vect Nokru"
+      },
+      {
+        "id": "nm0452748",
+        "image": "https://imdb-api.com/images/original/MV5BNDkxZGU4NzQtNzg0OS00NGU3LWEwYmYtNDRhNjNkZGEyODIwXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.8000_AL_.jpg",
+        "name": "Rya Kihlstedt",
+        "asCharacter": "Fourth Sisteras Fourth Sister"
+      },
+      {
+        "id": "nm4693452",
+        "image": "https://imdb-api.com/images/original/MV5BOTdkZWI4YTYtZmVkMS00ZDc3LWE0MTEtZTg0YmI1MjI0NDFhXkEyXkFqcGdeQXVyMzE4NDE1NDc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Aviel Ayoung",
+        "asCharacter": "Mercenary #1as Mercenary #1"
+      },
+      {
+        "id": "nm5762009",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Amy Sturdivant",
+        "asCharacter": "Mercenary #2as Mercenary #2"
+      }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Sci-Fi",
+    "genreList": [
+      {
+        "key": "Action",
+        "value": "Action"
+      },
+      {
+        "key": "Adventure",
+        "value": "Adventure"
+      },
+      {
+        "key": "Sci-Fi",
+        "value": "Sci-Fi"
+      }
+    ],
+    "companies": "Lucasfilm, Walt Disney Pictures",
+    "companyList": [
+      {
+        "id": "co0071326",
+        "name": "Lucasfilm"
+      },
+      {
+        "id": "co0008970",
+        "name": "Walt Disney Pictures"
+      }
+    ],
+    "countries": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+    "countryList": [
+      {
+        "key": "USA",
+        "value": "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ"
+      }
+    ],
+    "languages": "Английский",
+    "languageList": [
+      {
+        "key": "English",
+        "value": "Английский"
+      }
+    ],
+    "contentRating": "TV-14",
+    "imDbRating": "7.7",
+    "imDbRatingVotes": "40543",
+    "metacriticRating": null,
+    "ratings": null,
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+      "budget": "",
+      "openingWeekendUSA": "",
+      "grossUSA": "",
+      "cumulativeWorldwideGross": ""
+    },
+    "tagline": null,
+    "keywords": "obi wan kenobi character,star wars,tv mini series,darth vader character,prequel",
+    "keywordList": [
+      "obi wan kenobi character",
+      "star wars",
+      "tv mini series",
+      "darth vader character",
+      "prequel"
+    ],
+    "similars": [
+      {
+        "id": "tt8111088",
+        "title": "The Mandalorian",
+        "image": "https://imdb-api.com/images/original/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.7"
+      },
+      {
+        "id": "tt13668894",
+        "title": "The Book of Boba Fett",
+        "image": "https://imdb-api.com/images/original/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.4"
+      },
+      {
+        "id": "tt0121766",
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "image": "https://imdb-api.com/images/original/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_Ratio0.7536_AL_.jpg",
+        "imDbRating": "7.6"
+      },
+      {
+        "id": "tt0458290",
+        "title": "Star Wars: The Clone Wars",
+        "image": "https://imdb-api.com/images/original/MV5BZWFlNzRmOTItZjY1Ni00ZjZkLTk5MDgtOGFhOTYzNWFhYzhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.4"
+      },
+      {
+        "id": "tt4574334",
+        "title": "Stranger Things",
+        "image": "https://imdb-api.com/images/original/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8019_AL_.jpg",
+        "imDbRating": "8.7"
+      },
+      {
+        "id": "tt10234724",
+        "title": "Moon Knight",
+        "image": "https://imdb-api.com/images/original/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.4"
+      },
+      {
+        "id": "tt0120915",
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "image": "https://imdb-api.com/images/original/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.5"
+      },
+      {
+        "id": "tt0121765",
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "image": "https://imdb-api.com/images/original/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "6.6"
+      },
+      {
+        "id": "tt12708542",
+        "title": "Star Wars: The Bad Batch",
+        "image": "https://imdb-api.com/images/original/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.9"
+      },
+      {
+        "id": "tt3748528",
+        "title": "Rogue One: A Star Wars Story",
+        "image": "https://imdb-api.com/images/original/MV5BNjE3NDUzNjIyMV5BMl5BanBnXkFtZTgwNjUxMDE2MDI@._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "7.8"
+      },
+      {
+        "id": "tt12327578",
+        "title": "Star Trek: Strange New Worlds",
+        "image": "https://imdb-api.com/images/original/MV5BYWNlYmZkZjQtNjU5OS00YTNkLWJmOTEtYmZiMmUwZGI3NTM3XkEyXkFqcGdeQXVyMTM2NTIwMDIw._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.1"
+      },
+      {
+        "id": "tt1745960",
+        "title": "Top Gun: Maverick",
+        "image": "https://imdb-api.com/images/original/MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+        "imDbRating": "8.7"
+      }
+    ],
+    "tvSeriesInfo": {
+      "yearEnd": "2022",
+      "creators": "Deborah Chow, Joby Harold",
+      "creatorList": [
+        {
+          "id": "nm1278887",
+          "name": "Deborah Chow"
+        },
+        {
+          "id": "nm1703612",
+          "name": "Joby Harold"
+        }
+      ],
+      "seasons": [
+        "1"
+      ]
+    },
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+  }
+}
